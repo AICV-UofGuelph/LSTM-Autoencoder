@@ -2,3 +2,5 @@
 /checkpoints*
 *.png
 __pycache__/lstm_class.cpython-39.pyc
+wandb/*
+output*
