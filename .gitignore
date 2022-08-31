@@ -1,7 +1,7 @@
 /env*
 /checkpoints*
 *.png
-__pycache__/lstm_class.cpython-39.pyc
+__pycache__/*
 wandb/*
 output*
 training_info.txt
